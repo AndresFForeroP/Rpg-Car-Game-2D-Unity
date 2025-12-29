@@ -64,7 +64,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.46f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Cars\PlayerCar.cs" />
     <Compile Include="Assets\Cars\VehicleBase.cs" />
+    <Compile Include="Assets\Cars\EnemyCar.cs" />
+    <Compile Include="Assets\Cars\PlayerCollision.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
