@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: 4deb3e0c937bd8e47aba1a2d7527e85d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1100
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43ed1eaefdd450479bfdf9fc641fcfe
+      internalID: -337776160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1100
+        width: 119
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f7e1b39a79ce7429fc48eb1d4e50bd
+      internalID: -1494624823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1100
+        width: 118
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5053b9c13903594590a5217cbc73cf5
+      internalID: 43248101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1100
+        width: 122
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930f05de1f45da74dbc662858af0cf62
+      internalID: 693583565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 943
+        width: 119
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8f59fc52641034598a627f76c2445a
+      internalID: 2010052156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 943
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77f8890faa759849beddb13ae0e5ad2
+      internalID: -1366540481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 943
+        width: 136
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8fd7cb349d386428ecf8f1b674c53b
+      internalID: 1450445427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 851
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b37da5914e784c800a827ac137973
+      internalID: 1013801202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 856
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2008962b94905c1469f562efd080665a
+      internalID: 1957618720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 855
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8493ce1ea177a9542b2fdbba33e48717
+      internalID: 969866347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 850
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab376c5ef98614f859e2422dcb785b
+      internalID: -155966341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 851
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd046393c95cab946a2d3466dbe441f4
+      internalID: -1184710864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 771
+        width: 175
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7363be1fbf22514387dd9177f890929
+      internalID: 1884668324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 850
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44377aec35b445498eadaf716e01ada
+      internalID: -833339340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 765
+        width: 162
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdced8d0537a174089f70fa64a6212d
+      internalID: 542295543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 766
+        width: 154
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e91cf10af727743b99ea2c2ae4d1c8
+      internalID: -1083050521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 847
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a6e7cbde6836c49ad559a3dd0fa831
+      internalID: 622707133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 770
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec6a0aaef3d28c4eb789bf5c6c14062
+      internalID: 600370996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 770
+        width: 156
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4833fb40ce9b844984642072962a0e0
+      internalID: 508213465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 821
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b12569baf98a094a8a17747e0168b4d
+      internalID: -1075923949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 809
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38efebdd65720b48834e82d04d667ff
+      internalID: 1028629407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 799
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8929bd42fbd56424a9fbfd49b12947d6
+      internalID: -999956522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 788
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437026b8dbffce24ebfd5f316073bb60
+      internalID: -551429959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 782
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54301700bf2af446b5eb7837fc2ef29
+      internalID: 1097769104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 664
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c6c2a4a25700d4d8ced27528e1ac2c
+      internalID: 2117550746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 665
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8980cc39e87f1498525010a4b12dc6
+      internalID: -977379909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 593
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc312971aacb066438248e116456d42d
+      internalID: 178921810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 594
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0748446465bd444fb0aa23b1e0f0848
+      internalID: 283234033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 593
+        width: 120
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128d7d4012f185d41a695a7e51d325b9
+      internalID: -519650420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 593
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac0c5c4d66f894c8711f4ac418c40e
+      internalID: -481226937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 593
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f27340d94245548a2052cee7bbf6bc
+      internalID: -1674274851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 409
+        width: 133
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819216a60bd232b46bca2acaed75da17
+      internalID: -311658216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 409
+        width: 134
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d873b87432b18044e92b7b6b1edbfac4
+      internalID: 1032870413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 409
+        width: 134
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d7a4fe045f904a8d87bf6bd8e4b7b
+      internalID: -1959543211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 210
+        width: 130
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30fee751718e9c4381297762ccaebac
+      internalID: -1252599926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 221
+        width: 123
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bcbeb6c484e8c408079fc51de28b93
+      internalID: 1638035730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 941
+        width: 127
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a9e35e2183569429c36dfe5f7c7ca7
+      internalID: 928020843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ViperTileMap-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 966
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd26ec51638d824cadf69afc989f958
+      internalID: 423609597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ViperTileMap-Photoroom_0: -337776160
+      ViperTileMap-Photoroom_1: -1494624823
+      ViperTileMap-Photoroom_10: 969866347
+      ViperTileMap-Photoroom_11: -155966341
+      ViperTileMap-Photoroom_12: -1184710864
+      ViperTileMap-Photoroom_13: 1884668324
+      ViperTileMap-Photoroom_14: -833339340
+      ViperTileMap-Photoroom_15: 542295543
+      ViperTileMap-Photoroom_16: -1083050521
+      ViperTileMap-Photoroom_17: 622707133
+      ViperTileMap-Photoroom_18: 600370996
+      ViperTileMap-Photoroom_19: 508213465
+      ViperTileMap-Photoroom_2: 43248101
+      ViperTileMap-Photoroom_20: -1075923949
+      ViperTileMap-Photoroom_21: 1028629407
+      ViperTileMap-Photoroom_22: -999956522
+      ViperTileMap-Photoroom_23: -551429959
+      ViperTileMap-Photoroom_24: 1097769104
+      ViperTileMap-Photoroom_25: 2117550746
+      ViperTileMap-Photoroom_26: -977379909
+      ViperTileMap-Photoroom_27: 178921810
+      ViperTileMap-Photoroom_28: 283234033
+      ViperTileMap-Photoroom_29: -519650420
+      ViperTileMap-Photoroom_3: 693583565
+      ViperTileMap-Photoroom_30: -481226937
+      ViperTileMap-Photoroom_31: -1674274851
+      ViperTileMap-Photoroom_32: -311658216
+      ViperTileMap-Photoroom_33: 1032870413
+      ViperTileMap-Photoroom_34: -1959543211
+      ViperTileMap-Photoroom_35: -1252599926
+      ViperTileMap-Photoroom_36: 1638035730
+      ViperTileMap-Photoroom_37: 423609597
+      ViperTileMap-Photoroom_4: 2010052156
+      ViperTileMap-Photoroom_5: -1366540481
+      ViperTileMap-Photoroom_6: 1450445427
+      ViperTileMap-Photoroom_7: 928020843
+      ViperTileMap-Photoroom_8: 1013801202
+      ViperTileMap-Photoroom_9: 1957618720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

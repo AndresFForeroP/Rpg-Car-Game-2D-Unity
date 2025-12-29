@@ -1,0 +1,1852 @@
+fileFormatVersion: 2
+guid: 58c9b595aeee7c44399d61c1916627f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1120
+        width: 115
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ac39b988ac18648818c8fb47825194
+      internalID: -1668084239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1120
+        width: 110
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06759295b25258408366f51065d6e16
+      internalID: -1238199525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1120
+        width: 110
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e25041c427fa34ebe959c62e3300ea
+      internalID: 1247188881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1120
+        width: 113
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe6eb5ad253d554b9127ba1e7cef07c
+      internalID: -918091608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 960
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c10303909657c408d04ce61501c9f5
+      internalID: 2084891134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 961
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8c84380bd2b448839febc51165b40
+      internalID: 1935210131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 961
+        width: 142
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0927127f6fe8f5f4b921f43b75a0fc74
+      internalID: 27401126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 961
+        width: 132
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182d7125eac9e8148b9345b9a2844563
+      internalID: -2146157607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 996
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f334be7244168418eb91be06b3d920
+      internalID: -117326207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 800
+        width: 159
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c3d0d1cb1b23d4cb81fa6e9091418f
+      internalID: 1274565988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 875
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd14fc597b955d4c973015481d2a3b3
+      internalID: -1495014917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 878
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a59b5f189f3cf3428611c0e30c09476
+      internalID: -199215343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 873
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd6303720f061542a0d468876866ecc
+      internalID: -858245445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 876
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24aae1a013187d4c842ac040588f677
+      internalID: -1643763633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 874
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b919b26b6c0642bf1a3e76bba604c
+      internalID: 305168340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 874
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3ed6677f51ac4a8263e226f8993a6
+      internalID: 536155062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 870
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7d2b470bd5e014eb5325df81a3b080
+      internalID: -1752694079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 800
+        width: 156
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb4177f61e825646b1d94c05dd64304
+      internalID: -1536709970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 800
+        width: 143
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820f463478b5a764b8b7ea5fb2d5c532
+      internalID: 1536212355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 800
+        width: 123
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23691be09ad2f23418a80d27c7a1c5a0
+      internalID: 536720242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 800
+        width: 159
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc367ca968a1e4aa9f369a6fbdfe5d
+      internalID: -2003638066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 850
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744d81c97f9ce6c4ca27f876be20f574
+      internalID: 2090451195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 841
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bae9bc695dc514ea25819b261ef696
+      internalID: 668246147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 840
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10c147b492003d42b6a132bec5665bc
+      internalID: 1733002033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 832
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90500f4b63dcc7541a4f30bb6a1f5c5e
+      internalID: -1059417688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 820
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeb7b55eebd24940b6da91a4f8db42c
+      internalID: 2051040268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 827
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1105149716768419dfe06a54a5d4b0
+      internalID: 844927037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 823
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3e46596c1602c4bb49a7efc4fad156
+      internalID: 713751659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 820
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014b10445d489af4f871499afd5b18ed
+      internalID: -1550084823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 805
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c793669d0286c5d49bbcef72d75b58dd
+      internalID: -1909692932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 718
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df023a9161c98448d9f19a79591851
+      internalID: 439688236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 723
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48f9288983d1a439201c8181f8b947
+      internalID: -259483841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 726
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f3597e220cbf548b43b98b0ea075b4
+      internalID: 1357065858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 716
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ab929867837bc4c8154499a09e0110
+      internalID: -1054464297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 710
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ecfe86cf33a484197ea01e816b910e
+      internalID: 1262294384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 719
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6860169f13b231d43b5b7a5b193ad22b
+      internalID: 1322276433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 715
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf8e9bd49a3e2b4c880e8eb87bccdde
+      internalID: 713150652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 640
+        width: 138
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b308448d1f00349980ddaa43ce9891
+      internalID: 1416514136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 721
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8497931e37b35f41a32eb462635ceb2
+      internalID: 1088279290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 699
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04fd6c641eb09a409dc004ec028ad59
+      internalID: -414873836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 706
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f66d8dd4167b7e4face2f9b1e2838ae
+      internalID: 1106176862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 640
+        width: 151
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c4793079ec6b14abfb1e2291dcd004
+      internalID: 1387876670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 640
+        width: 146
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d923c1f1c07fe544e8bc5e8aba2cd011
+      internalID: -74902056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 713
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdfe26c609084c4795a1dc2d89cf79b
+      internalID: -690245691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 640
+        width: 153
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe97939f589005a4ca6d8c99588aee6f
+      internalID: -981717793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 710
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff75f9f26a3d217429f674c648139351
+      internalID: -1797352477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 702
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eae2f94105f68e4f984eb6b2a88c4de
+      internalID: 80421890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 703
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5949a9e338aee64886624eb625e1947
+      internalID: -1752092158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 640
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206f0529e4984c24b95db5c08e23fc73
+      internalID: -646300101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 693
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1797f9b35eeb32f42a588f480fb2b850
+      internalID: -1956505758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 695
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e65d6eed929084b9ce5cd81379b3d9
+      internalID: -357127479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 686
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75df0710977680a4aa0b331cffb99f7a
+      internalID: -1442205633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 681
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f06259ece41849a9603b9d5f91b53
+      internalID: 1246248137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 680
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0344a9bf9157e9c41ad08ec14865dbf8
+      internalID: 966371680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 687
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03211aed2bdb66246bb41b0c71d2541a
+      internalID: -878336917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 676
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3163a6062de834047b4d50453f13f261
+      internalID: -288454483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 672
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f898814b41c44983481bce2558b3e
+      internalID: -926039833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 673
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e9fb08616e68d48ae3604303644087
+      internalID: 1527526663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 658
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aba55d2c6cec446a8f33daee72b152
+      internalID: -2050202713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 662
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb692d2c47e6fd4481f766f25be28a2
+      internalID: 552518332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 659
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de61d586ab2a204469a02ff58a9981f0
+      internalID: -1163380315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 481
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bebed4d18f01884dbac23e17e4e1094
+      internalID: -1862783535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 480
+        width: 110
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dcda198039c834c800a6ee2ab80993
+      internalID: 1707907201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 481
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e714a254d90741a039628f00d0042
+      internalID: -1624693636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 480
+        width: 111
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ed4c432ccad5d4db0e3dad4b6e8071
+      internalID: -1814827268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 480
+        width: 111
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eceb92bc093bd4bb345d750bbf9819
+      internalID: -1991162829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 402
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c1be778d3acc64ebb1c09b53df7279
+      internalID: 907216233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 320
+        width: 111
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66698ad719629f342b3824704a1728f1
+      internalID: -826565463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 320
+        width: 111
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7763640fb9e7f4986fcaff6da276d0
+      internalID: -819625231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 320
+        width: 139
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae578971cfe7d44b09e8fa2a3b3e47
+      internalID: -2017985250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 320
+        width: 112
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e62d340dd4194c9c045760f3c00e3
+      internalID: -1575476283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf1fc8756b02044f887d23a9801b0d7
+      internalID: 1033732713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 160
+        width: 110
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794c04d7088e2174991ba07c3166f8f4
+      internalID: -593265107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 213
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ca1e84fc83426448258c1e5027488b
+      internalID: -617235034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 161
+        width: 113
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5111e9dff5bcccf479d5cb649c51645e
+      internalID: -1641551580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eefd6c98c3ab040922c799b4ab1e92
+      internalID: 1822445373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45b47407d4bb01458e35f70afd430fa
+      internalID: -23846030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 58
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba8189bfaa6f447b352bd62a0ed9c5
+      internalID: -1611651961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 112
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c9ddeffac5764e8d019e4cd71d903
+      internalID: -10626719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AudiRpgTileMap-Photoroom_0: -1668084239
+      AudiRpgTileMap-Photoroom_1: -1238199525
+      AudiRpgTileMap-Photoroom_10: -1495014917
+      AudiRpgTileMap-Photoroom_11: -199215343
+      AudiRpgTileMap-Photoroom_12: -858245445
+      AudiRpgTileMap-Photoroom_13: -1643763633
+      AudiRpgTileMap-Photoroom_14: 305168340
+      AudiRpgTileMap-Photoroom_15: 536155062
+      AudiRpgTileMap-Photoroom_16: -1752694079
+      AudiRpgTileMap-Photoroom_17: -1536709970
+      AudiRpgTileMap-Photoroom_18: 1536212355
+      AudiRpgTileMap-Photoroom_19: 536720242
+      AudiRpgTileMap-Photoroom_2: 1247188881
+      AudiRpgTileMap-Photoroom_20: -2003638066
+      AudiRpgTileMap-Photoroom_21: 2090451195
+      AudiRpgTileMap-Photoroom_22: 668246147
+      AudiRpgTileMap-Photoroom_23: 1733002033
+      AudiRpgTileMap-Photoroom_24: -1059417688
+      AudiRpgTileMap-Photoroom_25: 2051040268
+      AudiRpgTileMap-Photoroom_26: 844927037
+      AudiRpgTileMap-Photoroom_27: 713751659
+      AudiRpgTileMap-Photoroom_28: -1550084823
+      AudiRpgTileMap-Photoroom_29: -1909692932
+      AudiRpgTileMap-Photoroom_3: -918091608
+      AudiRpgTileMap-Photoroom_30: 439688236
+      AudiRpgTileMap-Photoroom_31: -259483841
+      AudiRpgTileMap-Photoroom_32: 1357065858
+      AudiRpgTileMap-Photoroom_33: -1054464297
+      AudiRpgTileMap-Photoroom_34: 1262294384
+      AudiRpgTileMap-Photoroom_35: 1322276433
+      AudiRpgTileMap-Photoroom_36: 713150652
+      AudiRpgTileMap-Photoroom_37: 1416514136
+      AudiRpgTileMap-Photoroom_38: 1088279290
+      AudiRpgTileMap-Photoroom_39: -414873836
+      AudiRpgTileMap-Photoroom_4: 2084891134
+      AudiRpgTileMap-Photoroom_40: 1106176862
+      AudiRpgTileMap-Photoroom_41: 1387876670
+      AudiRpgTileMap-Photoroom_42: -74902056
+      AudiRpgTileMap-Photoroom_43: -690245691
+      AudiRpgTileMap-Photoroom_44: -981717793
+      AudiRpgTileMap-Photoroom_45: -1797352477
+      AudiRpgTileMap-Photoroom_46: 80421890
+      AudiRpgTileMap-Photoroom_47: -1752092158
+      AudiRpgTileMap-Photoroom_48: -646300101
+      AudiRpgTileMap-Photoroom_49: -1956505758
+      AudiRpgTileMap-Photoroom_5: 1935210131
+      AudiRpgTileMap-Photoroom_50: -357127479
+      AudiRpgTileMap-Photoroom_51: -1442205633
+      AudiRpgTileMap-Photoroom_52: 1246248137
+      AudiRpgTileMap-Photoroom_53: 966371680
+      AudiRpgTileMap-Photoroom_54: -878336917
+      AudiRpgTileMap-Photoroom_55: -288454483
+      AudiRpgTileMap-Photoroom_56: -926039833
+      AudiRpgTileMap-Photoroom_57: 1527526663
+      AudiRpgTileMap-Photoroom_58: -2050202713
+      AudiRpgTileMap-Photoroom_59: 552518332
+      AudiRpgTileMap-Photoroom_6: 27401126
+      AudiRpgTileMap-Photoroom_60: -1163380315
+      AudiRpgTileMap-Photoroom_61: -1862783535
+      AudiRpgTileMap-Photoroom_62: 1707907201
+      AudiRpgTileMap-Photoroom_63: -1624693636
+      AudiRpgTileMap-Photoroom_64: -1814827268
+      AudiRpgTileMap-Photoroom_65: -1991162829
+      AudiRpgTileMap-Photoroom_66: 907216233
+      AudiRpgTileMap-Photoroom_67: -826565463
+      AudiRpgTileMap-Photoroom_68: -819625231
+      AudiRpgTileMap-Photoroom_69: -2017985250
+      AudiRpgTileMap-Photoroom_7: -2146157607
+      AudiRpgTileMap-Photoroom_70: -1575476283
+      AudiRpgTileMap-Photoroom_71: 1033732713
+      AudiRpgTileMap-Photoroom_72: -593265107
+      AudiRpgTileMap-Photoroom_73: -617235034
+      AudiRpgTileMap-Photoroom_74: -1641551580
+      AudiRpgTileMap-Photoroom_75: 1822445373
+      AudiRpgTileMap-Photoroom_76: -23846030
+      AudiRpgTileMap-Photoroom_77: -1611651961
+      AudiRpgTileMap-Photoroom_78: -10626719
+      AudiRpgTileMap-Photoroom_8: -117326207
+      AudiRpgTileMap-Photoroom_9: 1274565988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
