@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 668687271dfe28948b079a84c427d575
+guid: f4f3a1505a7097242a5d065e60b84a75
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 65
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -95,7 +95,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Audi_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1005
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b91db9518b174d90a2ba911319b0b
+      internalID: 659858268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audi_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1005
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91fc748f5ffa0642bbc050cb2fb041f
+      internalID: -668352991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audi_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1005
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1d175392b52ab418dcc2f07b7679c8
+      internalID: 475753559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audi_3
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1005
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9bd033e132c84db0f2b958e03864e
+      internalID: -1755451010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audi_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1006
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447a3196a9df0424980caab52a7cc94a
+      internalID: 736441137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audi_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 167
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00990cd901a059a429d72475e36a09ab
+      internalID: -475680156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audi_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 167
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d9404150ecd5941b85935bbea8831b
+      internalID: 983898466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audi_7
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 167
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f1649db8aca0b459f5c30633bb2fa1
+      internalID: 301724483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audi_8
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 167
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5dba8d136062643950d4b04db1ab6f
+      internalID: 1925556250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +295,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Audi_0: 659858268
+      Audi_1: -668352991
+      Audi_2: 475753559
+      Audi_3: -1755451010
+      Audi_4: 736441137
+      Audi_5: -475680156
+      Audi_6: 983898466
+      Audi_7: 301724483
+      Audi_8: 1925556250
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
