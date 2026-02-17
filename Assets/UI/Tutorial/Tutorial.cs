@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -13,6 +14,7 @@ public class Tutorial : MonoBehaviour
     void Start()
     {
         playbuttontutorial.onClick.AddListener(buttonplaypressedtutorial);
+        StartCoroutine(InteractableButton());
     }
     public void buttonplaypressedtutorial()
     {
@@ -23,7 +25,12 @@ public class Tutorial : MonoBehaviour
         GameUi.SetActive(true);
         enemyCar.agent.isStopped = false;
         playerCar.acceleration = 0.10f;
-        playerCar.steeringSpeed = 250;
+        playerCar.steeringSpeed = 200;
+    }
+    IEnumerator InteractableButton()
+    {
+        yield return new WaitForSeconds(6f);
+        playbuttontutorial.interactable= true;
     }
 
 }

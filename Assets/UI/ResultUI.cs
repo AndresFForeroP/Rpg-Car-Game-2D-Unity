@@ -11,9 +11,9 @@ public class ResultUI : MonoBehaviour
     [SerializeField] EnemyCar enemyCar;
     [SerializeField] GameObject victory;
     [SerializeField] GameObject defeat;
-    [SerializeField] CinemachineVirtualCamera Cinecam;
-    [SerializeField] Transform targetToFollow;
     [SerializeField] GameObject GameUi;
+    [SerializeField] Transition transition;
+    [SerializeField] GameObject back;
 
     bool isTransitioning = false;
 
@@ -24,31 +24,30 @@ public class ResultUI : MonoBehaviour
         if (playerCar.lap > 5 && playerCar.position == 1 || enemyCar.die)
         {
             isTransitioning = true;
-
-            GameUi.SetActive(false);
-            playerCar.Speed = 0;
-            playerCar.acceleration = 0;
-            playerCar.steeringSpeed = 0;
-            victory.SetActive(true);
-
-            Debug.Log("ganaste");
-
+            FinishRace();
             StartCoroutine(RestartGame());
+            victory.SetActive(true);
         }
         else if (enemyCar.lap > 5 && enemyCar.position == 1 || playerCar.die)
         {
             isTransitioning = true;
-
-            GameUi.SetActive(false);
-            Debug.Log("perdiste");
-            defeat.SetActive(true);
-            enemyCar.agent.isStopped = true;
-
+            FinishRace();
             StartCoroutine(RestartGame());
+            defeat.SetActive(true);
         }
     }
 
-
+    public void FinishRace()
+    {
+        back.SetActive(true);
+        StartCoroutine(transition.EndGame());
+        gameObject.SetActive(true);
+        GameUi.SetActive(false);
+        enemyCar.agent.isStopped = true;
+        playerCar.Speed = 0;
+        playerCar.acceleration = 0;
+        playerCar.steeringSpeed = 0;
+    }
     IEnumerator RestartGame()
     {
         yield return new WaitForSeconds(5f);

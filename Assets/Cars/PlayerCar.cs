@@ -75,7 +75,7 @@ public class PlayerCar : VehicleBase
     {
         acceleration = 0.12f;
         MaxSpeed = 30;
-        steeringSpeed = 250;
+        steeringSpeed = 200;
         playeranimator.SetBool("Nitro", true);
         StartCoroutine(brake());
     }
@@ -105,7 +105,7 @@ public class PlayerCar : VehicleBase
         yield return new WaitForSeconds(3f);
         acceleration = 0.8f;
         MaxSpeed = 25;
-        steeringSpeed = 250;
+        steeringSpeed = 200;
         playeranimator.SetBool("Repair", false);
     }
 }

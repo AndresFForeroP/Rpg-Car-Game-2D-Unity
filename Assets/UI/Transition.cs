@@ -7,10 +7,6 @@ using System.CodeDom.Compiler;
 
 public class Transition : MonoBehaviour
 {
-    [SerializeField] PlayerCar playerCar;
-    [SerializeField] EnemyCar enemyCar;
-    [SerializeField] GameObject victory;
-    [SerializeField] GameObject defeat;
     [Header("UI")]
     public CanvasGroup transitionPanel;
     [SerializeField] GameObject GameUi;
@@ -24,7 +20,6 @@ public class Transition : MonoBehaviour
     [Header("Camera")]
     [SerializeField] CinemachineVirtualCamera Cinecam;
     [SerializeField] Transform targetToFollow;
-    [SerializeField] Transform targetToFollowResultUI;
     [SerializeField] Transform targetToFollowRace;
     [SerializeField] GameObject CondicionalUi;
     [SerializeField] GameObject Playerturn;
@@ -36,75 +31,22 @@ public class Transition : MonoBehaviour
 
     bool isTransitioning = false;
 
-    void Update()
+
+    public IEnumerator EndGame()
     {
-        if (isTransitioning) return;
-
-        if ((playerCar.lap > 5 && playerCar.position == 1) || enemyCar.die)
-        {
-            isTransitioning = true;
-            StartCoroutine(EndGame(true));
-        }
-        else if ((enemyCar.lap > 5 && enemyCar.position == 1) || playerCar.die)
-        {
-            isTransitioning = true;
-            StartCoroutine(EndGame(false));
-        }
-    }
-    IEnumerator EndGame(bool isVictory)
-    {
-        GameUi.SetActive(false);
-
-
-        playerCar.Speed = 0;
-        playerCar.acceleration = 0;
-        playerCar.steeringSpeed = 0;
-
-        if (enemyCar.agent != null)
-            enemyCar.agent.isStopped = true;
-
         Sequence seq = DOTween.Sequence();
-
-
         seq.Append(transitionPanel
             .DOFade(1f, fadeDuration)
             .SetEase(Ease.InOutSine));
 
-        seq.AppendCallback(() =>
-        {
-            Cinecam.Follow = targetToFollowResultUI;
-
-            if (isVictory)
-            {
-                victory.SetActive(true);
-                Debug.Log("ganaste");
-            }
-            else
-            {
-                defeat.SetActive(true);
-                Debug.Log("perdiste");
-            }
-        });
-
 
         seq.AppendInterval(blackScreenTime);
 
- 
         seq.Append(transitionPanel
             .DOFade(0f, fadeDuration)
             .SetEase(Ease.InOutSine));
 
-        seq.OnComplete(() =>
-        {
-            StartCoroutine(RestartGame());
-        });
-
         yield return null;
-    }
-    IEnumerator RestartGame()
-    {
-        yield return new WaitForSeconds(5f);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void GoToBattle()

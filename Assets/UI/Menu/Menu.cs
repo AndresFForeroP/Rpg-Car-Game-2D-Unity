@@ -10,16 +10,19 @@ public class Menu : MonoBehaviour
     [SerializeField] Button playbutton;
     [SerializeField] Button moreganesbutton;
     [SerializeField] Button exitbutton;
+    [SerializeField] GameObject exitbuttogame;
     [SerializeField] private GameObject menu;
     [SerializeField] GameObject tutorial;
     
     
 
     void Start()
-    {
+    {    
         playbutton.onClick.AddListener(buttonplaypressed);
         moreganesbutton.onClick.AddListener(buttonmoregamespressed);
         exitbutton.onClick.AddListener(buttonexitpressed);
+        if (Application.platform == RuntimePlatform.WebGLPlayer)
+            exitbuttogame.SetActive(false);
     }
     public void buttonplaypressed()
     {
@@ -28,7 +31,7 @@ public class Menu : MonoBehaviour
     }
     public void buttonmoregamespressed()
     {
-        Application.OpenURL("www.linkedin.com/in/andres-forero-pérez-34a4563aa");
+        Application.OpenURL("https://www.linkedin.com/in/andres-forero-p%C3%A9rez-34a4563aa/");
     }
     public void buttonexitpressed()
     {
