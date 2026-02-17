@@ -906,6 +906,8 @@ MonoBehaviour:
   victory: {fileID: 418326643}
   defeat: {fileID: 632580432}
   GameUi: {fileID: 822564978}
+  transition: {fileID: 1994530564}
+  back: {fileID: 711504047}
 --- !u!1 &92111107
 GameObject:
   m_ObjectHideFlags: 0
@@ -2591,7 +2593,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 26, y: -97}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &284899512
@@ -3783,7 +3785,7 @@ RectTransform:
   m_GameObject: {fileID: 418326643}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.75, y: 1.16, z: 1}
+  m_LocalScale: {x: 0.6, y: 1.16, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 77492710}
@@ -3791,7 +3793,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 158, y: -166}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &418326645
 MonoBehaviour:
@@ -5650,7 +5652,7 @@ RectTransform:
   m_GameObject: {fileID: 632580432}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 11, y: 16.11, z: 9.853333}
+  m_LocalScale: {x: 0.58047664, y: 1.0925283, z: 0.65527}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 77492710}
@@ -5658,7 +5660,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -1220, y: -1470}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &632580434
 MonoBehaviour:
@@ -6426,7 +6428,7 @@ GameObject:
   - component: {fileID: 711504050}
   - component: {fileID: 711504049}
   m_Layer: 5
-  m_Name: Image
+  m_Name: BackResult
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7426,10 +7428,10 @@ RectTransform:
   - {fileID: 1356383420}
   m_Father: {fileID: 658028764}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: -1964, y: -904}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &822564980
 MonoBehaviour:
@@ -10366,7 +10368,7 @@ RectTransform:
   m_GameObject: {fileID: 1283212443}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.1149, y: 1.1149, z: 1.1149}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2020952507}
@@ -10773,10 +10775,10 @@ RectTransform:
   - {fileID: 1575849566}
   m_Father: {fileID: 822564979}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -97}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1391818665
 GameObject:
@@ -12556,7 +12558,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 13, y: -84}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1663093565
@@ -15856,10 +15858,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c704533797fe3c4583f385cb7a36957, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerCar: {fileID: 1114256325}
-  enemyCar: {fileID: 997290088}
-  victory: {fileID: 0}
-  defeat: {fileID: 0}
   transitionPanel: {fileID: 1994530565}
   GameUi: {fileID: 822564978}
   Battleroot: {fileID: 1614138759}
@@ -15869,7 +15867,6 @@ MonoBehaviour:
   AudioBattle: {fileID: 1916144561}
   Cinecam: {fileID: 1866465253}
   targetToFollow: {fileID: 161213050}
-  targetToFollowResultUI: {fileID: 0}
   targetToFollowRace: {fileID: 1114256321}
   CondicionalUi: {fileID: 1997103373}
   Playerturn: {fileID: 1540324795}
@@ -16251,7 +16248,7 @@ RectTransform:
   m_GameObject: {fileID: 2020952503}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.5096352, y: 2.5096352, z: 2.5096352}
+  m_LocalScale: {x: 2.1765957, y: 2.3838449, z: 2.1765957}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1283212444}
@@ -16262,7 +16259,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 5, y: 6}
+  m_AnchoredPosition: {x: 10, y: 1.6434326}
   m_SizeDelta: {x: -1120, y: -630}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2020952509
@@ -16280,6 +16277,7 @@ MonoBehaviour:
   playbutton: {fileID: 7250218}
   moreganesbutton: {fileID: 142745573}
   exitbutton: {fileID: 674590549}
+  exitbuttogame: {fileID: 0}
   menu: {fileID: 2020952503}
   tutorial: {fileID: 256767401}
 --- !u!1 &2039757224

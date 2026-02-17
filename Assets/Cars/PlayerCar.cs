@@ -50,9 +50,9 @@ public class PlayerCar : VehicleBase
         if (Input.GetMouseButton(0))
         {
             if (Input.mousePosition.x < Screen.width / 2)
-                steer = -1f;
+                steer = -0.7f;
             else
-                steer = 1f;
+                steer = 0.7f;
         }
     #else
         if (Input.touchCount > 0)
@@ -62,9 +62,9 @@ public class PlayerCar : VehicleBase
                 touch.phase == TouchPhase.Moved)
             {
                 if (touch.position.x < Screen.width / 2)
-                    steer = -1f;
+                    steer = -0.7f;
                 else
-                    steer = 1f;
+                    steer = 0.7f;
             }
         }
     #endif
