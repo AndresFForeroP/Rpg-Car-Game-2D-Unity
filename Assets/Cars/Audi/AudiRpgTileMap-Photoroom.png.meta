@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 58c9b595aeee7c44399d61c1916627f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 962
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ac39b988ac18648818c8fb47825194
+      internalID: -1668084239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1122
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06759295b25258408366f51065d6e16
+      internalID: -1238199525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 962
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e25041c427fa34ebe959c62e3300ea
+      internalID: 1247188881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 802
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe6eb5ad253d554b9127ba1e7cef07c
+      internalID: -918091608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 802
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c10303909657c408d04ce61501c9f5
+      internalID: 2084891134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 802
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8c84380bd2b448839febc51165b40
+      internalID: 1935210131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 642
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0927127f6fe8f5f4b921f43b75a0fc74
+      internalID: 27401126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 642
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182d7125eac9e8148b9345b9a2844563
+      internalID: -2146157607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 322
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c3d0d1cb1b23d4cb81fa6e9091418f
+      internalID: 1274565988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 642
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7fcee333399b41ad691a3a1017925
+      internalID: -117326207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 161
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d7009b9c12953488ff74c769891caf
+      internalID: -1495014917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 162
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc07e7682b26db47b60834826954e39
+      internalID: -199215343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46152e5edd7418e46affa0ca1b5821ef
+      internalID: -858245445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudiRpgTileMap-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccd7049ac565844db69dd27a1eb662c
+      internalID: -1643763633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AudiRpgTileMap-Photoroom_0: -1668084239
+      AudiRpgTileMap-Photoroom_1: -1238199525
+      AudiRpgTileMap-Photoroom_10: -1495014917
+      AudiRpgTileMap-Photoroom_11: -199215343
+      AudiRpgTileMap-Photoroom_12: -858245445
+      AudiRpgTileMap-Photoroom_13: -1643763633
+      AudiRpgTileMap-Photoroom_14: 305168340
+      AudiRpgTileMap-Photoroom_15: 536155062
+      AudiRpgTileMap-Photoroom_16: -1752694079
+      AudiRpgTileMap-Photoroom_17: -1536709970
+      AudiRpgTileMap-Photoroom_18: 1536212355
+      AudiRpgTileMap-Photoroom_19: 536720242
+      AudiRpgTileMap-Photoroom_2: 1247188881
+      AudiRpgTileMap-Photoroom_20: -2003638066
+      AudiRpgTileMap-Photoroom_21: 2090451195
+      AudiRpgTileMap-Photoroom_22: 668246147
+      AudiRpgTileMap-Photoroom_23: 1733002033
+      AudiRpgTileMap-Photoroom_24: -1059417688
+      AudiRpgTileMap-Photoroom_25: 2051040268
+      AudiRpgTileMap-Photoroom_26: 844927037
+      AudiRpgTileMap-Photoroom_27: 713751659
+      AudiRpgTileMap-Photoroom_28: -1550084823
+      AudiRpgTileMap-Photoroom_29: -1909692932
+      AudiRpgTileMap-Photoroom_3: -918091608
+      AudiRpgTileMap-Photoroom_30: 439688236
+      AudiRpgTileMap-Photoroom_31: -259483841
+      AudiRpgTileMap-Photoroom_32: 1357065858
+      AudiRpgTileMap-Photoroom_33: -1054464297
+      AudiRpgTileMap-Photoroom_34: 1262294384
+      AudiRpgTileMap-Photoroom_35: 1322276433
+      AudiRpgTileMap-Photoroom_36: 713150652
+      AudiRpgTileMap-Photoroom_37: 1416514136
+      AudiRpgTileMap-Photoroom_38: 1088279290
+      AudiRpgTileMap-Photoroom_39: -414873836
+      AudiRpgTileMap-Photoroom_4: 2084891134
+      AudiRpgTileMap-Photoroom_40: 1106176862
+      AudiRpgTileMap-Photoroom_41: 1387876670
+      AudiRpgTileMap-Photoroom_42: -74902056
+      AudiRpgTileMap-Photoroom_43: -690245691
+      AudiRpgTileMap-Photoroom_44: -981717793
+      AudiRpgTileMap-Photoroom_45: -1797352477
+      AudiRpgTileMap-Photoroom_46: 80421890
+      AudiRpgTileMap-Photoroom_47: -1752092158
+      AudiRpgTileMap-Photoroom_48: -646300101
+      AudiRpgTileMap-Photoroom_49: -1956505758
+      AudiRpgTileMap-Photoroom_5: 1935210131
+      AudiRpgTileMap-Photoroom_50: -357127479
+      AudiRpgTileMap-Photoroom_51: -1442205633
+      AudiRpgTileMap-Photoroom_52: 1246248137
+      AudiRpgTileMap-Photoroom_53: 966371680
+      AudiRpgTileMap-Photoroom_54: -878336917
+      AudiRpgTileMap-Photoroom_55: -288454483
+      AudiRpgTileMap-Photoroom_56: -926039833
+      AudiRpgTileMap-Photoroom_57: 1527526663
+      AudiRpgTileMap-Photoroom_58: -2050202713
+      AudiRpgTileMap-Photoroom_59: 552518332
+      AudiRpgTileMap-Photoroom_6: 27401126
+      AudiRpgTileMap-Photoroom_60: -1163380315
+      AudiRpgTileMap-Photoroom_61: -1862783535
+      AudiRpgTileMap-Photoroom_62: 1707907201
+      AudiRpgTileMap-Photoroom_63: -1624693636
+      AudiRpgTileMap-Photoroom_64: -1814827268
+      AudiRpgTileMap-Photoroom_65: -1991162829
+      AudiRpgTileMap-Photoroom_66: 907216233
+      AudiRpgTileMap-Photoroom_67: -826565463
+      AudiRpgTileMap-Photoroom_68: -819625231
+      AudiRpgTileMap-Photoroom_69: -2017985250
+      AudiRpgTileMap-Photoroom_7: -2146157607
+      AudiRpgTileMap-Photoroom_70: -1575476283
+      AudiRpgTileMap-Photoroom_71: 1033732713
+      AudiRpgTileMap-Photoroom_72: -593265107
+      AudiRpgTileMap-Photoroom_73: -617235034
+      AudiRpgTileMap-Photoroom_74: -1641551580
+      AudiRpgTileMap-Photoroom_75: 1822445373
+      AudiRpgTileMap-Photoroom_76: -23846030
+      AudiRpgTileMap-Photoroom_77: -1611651961
+      AudiRpgTileMap-Photoroom_78: -10626719
+      AudiRpgTileMap-Photoroom_8: -117326207
+      AudiRpgTileMap-Photoroom_9: 1274565988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
