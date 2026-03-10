@@ -11,6 +11,7 @@ public class Tutorial : MonoBehaviour
     [SerializeField] GameObject GameUi;
     [SerializeField] EnemyCar enemyCar;
     [SerializeField] PlayerCar playerCar;
+
     void Start()
     {
         playbuttontutorial.onClick.AddListener(buttonplaypressedtutorial);
